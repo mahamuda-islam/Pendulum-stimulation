@@ -13,7 +13,6 @@ This project simulates the motion of a simple pendulum using Python.
 - Numerical simulation
 
 ## Tools Used
-- Python
 - NumPy
 - Matplotlib
 
