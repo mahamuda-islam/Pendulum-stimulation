@@ -13,6 +13,7 @@ This project simulates the motion of a simple pendulum using Python.
 - Numerical simulation
 
 ## Tools Used
+- Python
 - NumPy
 - Matplotlib
 
@@ -22,3 +23,11 @@ The simulation shows oscillatory motion and a real-time animated pendulum.
 ---
 
 This project is part of my journey into computational physics and scientific programming.
+
+## Output Preview
+
+### Graph
+![Pendulum Graph](pendulum_angle_time.png)
+
+### Animation
+[Watch Animation](pendulum_motion_animation.mp4)
